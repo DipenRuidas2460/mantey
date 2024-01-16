@@ -1,0 +1,7 @@
+/* eslint react/no-unescaped-entities */
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off"
+  }
+}
